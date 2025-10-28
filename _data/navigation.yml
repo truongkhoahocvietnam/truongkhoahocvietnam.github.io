@@ -1,9 +1,4 @@
 main:
-  - title: "Home"
-    url: /
-  - title: "VSSS2025"
-    url: /vsss2025/
-    children:
       - title: "Home"
         url: /
       - title: "Program"
