@@ -1,6 +1,8 @@
 ---
-layout: page
-title: "Home"
-permalink: /vsss2025/home/
+layout: default
+title: "home"
+permalink: /
 author_profile: true
 ---
+
+ABC
