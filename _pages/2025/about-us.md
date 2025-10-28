@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "About Us"
-permalink: /vsss2025/about-us/
+permalink: /about-us/
 ---
 
 <style>
