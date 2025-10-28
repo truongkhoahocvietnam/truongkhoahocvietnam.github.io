@@ -1,0 +1,12 @@
+{% assign year = page.url | split: '/' | second %}
+{% assign menu = site.data.navigation.years[year] %}
+
+{% if menu %}
+<nav class="year-menu">
+  <ul>
+    {% for item in menu %}
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
+{% endif %}
