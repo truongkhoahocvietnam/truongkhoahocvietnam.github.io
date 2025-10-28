@@ -1,0 +1,48 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "VSSS2025"
+    url: /vsss2025/
+    children:
+      - title: "Home"
+        url: /
+      - title: "Program"
+        url: /program/
+        children:
+          - title: "Timeline"
+            url: /program/timeline/
+          - title: "Venue"
+            url: /program/venue/
+      - title: "Application"
+        url: /application/
+        children:
+            - title: "Apply now!"
+              url: /application/application/
+            - title: "Eligibility"
+              url: /application/eligibility/
+            - title: "Important dates"
+              url: /application/important-dates/
+            - title: "Prepare for Apply"
+              url: /application/prepare-for-apply/
+      - title: "About Us"
+        url: /about-us/
+        children:
+          - title: "VSSS"
+            url: /about-us/VSSS/
+          - title: "Rencontres du Vietnam"
+            url: /about-us/rencontres-du-vietnam/
+          - title: "Organizers"
+            url: /about-us/organizers/
+      - title: "Others"
+        url: /others/
+        children:
+          - title: "FAQs"
+            url: /others/faqs/
+          - title: "Financial Support"
+            url: /others/financial-support/
+          - title: "News"
+            url: /others/news/
+          - title: "Travel Guide"
+            url: /others/travel-guide/
+      - title: "Contact"
+        url: /contact/
