@@ -90,7 +90,7 @@ permalink: /application/important-dates/
             <li><strong>Confirmation of attendance (TBA)</strong>: For successful candidates, you will have to confirm to attend the V(S)SS’12 before the end of this date. Late confirmation means you are unable to attend, and the place will be offered to another candidate.</strong>.</li>
         </ul>
         <p>
-            Please carefully check the application instructions and your eligibility <a href="/vsss2025/application/eligibility/"><u>here</u></a>, and submit your application <a href="/application/apply-now/"><u>here</u></a>.
+            Please carefully check the application instructions and your eligibility <a href="/application/eligibility/"><u>here</u></a>, and submit your application <a href="/application/apply-now/"><u>here</u></a>.
         </p>
     </div>
 

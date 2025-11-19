@@ -80,7 +80,7 @@ permalink: /application/prepare-to-apply/
          Prepare to Apply
     </h1>
     <p class="sub-heading"><strong>
-         <a href="/vsss2025/application/apply-now/"><u>CLICK HERE</u></a> TO APPLY IF YOU ARE READY
+         <a href="/application/apply-now/"><u>CLICK HERE</u></a> TO APPLY IF YOU ARE READY
     </strong></p>
     <p class="sub-heading"><em>
          OTHERWISE, CHECK THE BELOW INFORMATION CAREFULLY BEFORE APPLYING!
@@ -112,6 +112,6 @@ permalink: /application/prepare-to-apply/
         </ul>
     </div>
     <p>
-        IF YOU PREPARE EVERYTHING READY, PLEASE <a href="/vsss2025/application/apply-now/"><u>CLICK HERE</u></a> TO APPLY!
+        IF YOU PREPARE EVERYTHING READY, PLEASE <a href="/application/apply-now/"><u>CLICK HERE</u></a> TO APPLY!
     </p>
 </div>

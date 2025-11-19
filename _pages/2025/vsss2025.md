@@ -89,8 +89,8 @@ author_profile: true
   </p>
 
   <div>
-    <a href="/vsss2025/about-us/VSSS/" class="nav-button">About VSSS</a>
-    <a href="/vsss2025/others/faqs/" class="nav-button">FAQs</a>
+    <a href="/about-us/VSSS/" class="nav-button">About VSSS</a>
+    <a href="/others/faqs/" class="nav-button">FAQs</a>
   </div>
 
   <img src="/_pages/2025/home/home.jpg" alt="12th Vietnam Summer School of Science" class="home-image">
@@ -104,7 +104,7 @@ author_profile: true
     </p>
     <img src="/_pages/2025/home/ourjourney.jpeg" alt="Students and lecturers at a past VSSS event">
     <div class="section-button">
-        <a href="/vsss2025/about-us/VSSS/" class="nav-button">More About VSSS</a>
+        <a href="/about-us/VSSS/" class="nav-button">More About VSSS</a>
     </div>
   </div>
 </div>

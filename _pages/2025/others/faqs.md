@@ -123,7 +123,7 @@ permalink: /others/faqs/
                     Chương trình của VSSS được thiết kế cho đối tượng là những người đang ở ngưỡng cửa bắt đầu của sự nghiệp nghiên cứu khoa học và học thuật. <strong>Đối tượng này bao gồm các nhà nghiên cứu trẻ ở các viện nghiên cứu, các giảng viên đại học/cao đẳng mới vào nghề (hoặc cả các giáo viên phổ thông dạy các môn STEM), các sinh viên sau đại học và đại học những người đang cần trang bị các kiến thức nền tảng về phương pháp luận, kỹ năng và kinh nghiệm nghiên cứu cho sự nghiệp tương lai.</strong> Bên cạnh đó, một số học sinh phổ thông có thành tích xuất sắc và các đối tượng khác, những người thể hiện niềm yêu thích khám phá và tìm hiểu khoa học cũng được xem xét mời tham dự.
                 </p>
                 <p>
-                    Mục tiêu của khóa học nhằm trang bị cho học viên những nền tảng quan trọng nhất để có thể bắt đầu theo đuổi con đường nghiên cứu. Đó là những tư duy cơ bản của phương pháp luận nghiên cứu khoa học, tự do và trách nhiệm học thuật, nền tảng nghiên cứu khoa học và nghề nghiên cứu, tư duy phê phán, phản biện, trình bày và công bố kết quả nghiên cứu khoa học, v.v.. Nếu bạn muốn tìm hiểu rõ hơn về chương trình Trường hè Khoa học, hãy nghiên cứu kỹ nội dung các Trường hè Khoa học trong quá khứ tại <a href = "/vsss2025/about-us/VSSS/"><u>đây</u></a> và cập nhật thông tin mới nhất về chương trình Trường hè năm nay tại <a href = "/vsss2025/program/timeline/"><u>đây</u></a>.
+                    Mục tiêu của khóa học nhằm trang bị cho học viên những nền tảng quan trọng nhất để có thể bắt đầu theo đuổi con đường nghiên cứu. Đó là những tư duy cơ bản của phương pháp luận nghiên cứu khoa học, tự do và trách nhiệm học thuật, nền tảng nghiên cứu khoa học và nghề nghiên cứu, tư duy phê phán, phản biện, trình bày và công bố kết quả nghiên cứu khoa học, v.v.. Nếu bạn muốn tìm hiểu rõ hơn về chương trình Trường hè Khoa học, hãy nghiên cứu kỹ nội dung các Trường hè Khoa học trong quá khứ tại <a href = "/about-us/VSSS/"><u>đây</u></a> và cập nhật thông tin mới nhất về chương trình Trường hè năm nay tại <a href = "/program/timeline/"><u>đây</u></a>.
                 </p>
             </div>
         </details>
@@ -175,7 +175,7 @@ permalink: /others/faqs/
             </summary>
             <div class="faq-answer">
                 <p>
-                    Việc nộp hồ sơ được thực hiện khá đơn giản thông qua hệ thống đăng kí online ngay trên trang web này – tại <a href = "/vsss2025/application/apply-now/"><u>đây</u></a>.
+                    Việc nộp hồ sơ được thực hiện khá đơn giản thông qua hệ thống đăng kí online ngay trên trang web này – tại <a href = "/application/apply-now/"><u>đây</u></a>.
                 </p>
                 <p>
                     Bạn sẽ phải điền một đơn đăng kí được thiết kế tương đối phức tạp với việc lựa chọn từng đối tượng (việc này giúp BTC phân loại hồ sơ nhanh hơn), và upload hồ sơ của bạn.
@@ -233,7 +233,7 @@ permalink: /others/faqs/
             </summary>
             <div class="faq-answer">
                 <p>
-                    Nếu vào ngày <strong>05/7/2025</strong>, bạn nhận được thư điện tử của Ban Tổ chức mời bạn tham dự, xin chúc mừng, bạn là một trong các ứng viên xuất sắc nhất xứng đáng tham dự trường hè năm nay. Nếu hết ngày <strong>05/7/2025</strong> mà bạn không nhận được thư mời, rất tiếc rằng hồ sơ của bạn không được chọn (hãy vào <a href = "/vsss2025/application/important-dates/"><u>đây</u></a> để biết những mốc thời gian quan trọng của Trường hè). Cũng có lúc thư mời của Trường hè vô tình bị lọc vào hòm thư rác của bạn nên bạn không thấy, hãy thử kiểm tra kỹ trong hòm thư rác nữa nhé.
+                    Nếu vào ngày <strong>05/7/2025</strong>, bạn nhận được thư điện tử của Ban Tổ chức mời bạn tham dự, xin chúc mừng, bạn là một trong các ứng viên xuất sắc nhất xứng đáng tham dự trường hè năm nay. Nếu hết ngày <strong>05/7/2025</strong> mà bạn không nhận được thư mời, rất tiếc rằng hồ sơ của bạn không được chọn (hãy vào <a href = "/application/important-dates/"><u>đây</u></a> để biết những mốc thời gian quan trọng của Trường hè). Cũng có lúc thư mời của Trường hè vô tình bị lọc vào hòm thư rác của bạn nên bạn không thấy, hãy thử kiểm tra kỹ trong hòm thư rác nữa nhé.
                 </p>
                 <p>
                     Mọi liên lạc sẽ được thông qua e-mail, nên khi bạn điền application form, hãy thật cẩn thận điền chính xác e-mail mà bạn sử dụng nhé.
@@ -249,7 +249,7 @@ permalink: /others/faqs/
             </summary>
             <div class="faq-answer">
                 <p>
-                    Danh sách chính thức cuối cùng của giảng viên, kèm theo thông tin các bài giảng sẽ được cập nhật tại <a href = "/vsss2025/program/timeline/"><u>đây</u></a>.
+                    Danh sách chính thức cuối cùng của giảng viên, kèm theo thông tin các bài giảng sẽ được cập nhật tại <a href = "/program/timeline/"><u>đây</u></a>.
                 </p>
                 <p>
                     Giảng viên giảng dạy tại trường hè đều là những người có kinh nghiệm nghiên cứu khoa học, phần lớn trong số họ hiện đang làm công tác nghiên cứu khoa học (trong và ngoài nước), và có kinh nghiệm trong việc chuẩn bị sự nghiệp nghiên cứu, có lòng nhiệt tình muốn truyền lại kiến thức và kinh nghiệm của mình cho những người đi sau, giúp họ có sự chuẩn bị tốt để sẵn sàng theo đuổi con đường nghiên cứu.
@@ -271,7 +271,7 @@ permalink: /others/faqs/
                     Mục tiêu của khóa học nhằm trang bị cho bạn những nền tảng quan trọng nhất để có thể bắt đầu theo đuổi con đường nghiên cứu. Đó là những tư duy cơ bản của phương pháp luận nghiên cứu khoa học, tự do và trách nhiệm học thuật, nền tảng nghiên cứu khoa học và nghề nghiên cứu, tư duy phê phán, phản biện, trình bày và công bố kết quả nghiên cứu khoa học, v.v.. Lớp học và các bài giảng sẽ được thiết kế tăng tính tương tác, trải nghiệm. Học viên luôn được chào đón và khuyến khích tranh luận với giảng viên, lối dạy và học thụ động không được chấp nhận tại Trường hè.
                 </p>
                 <p>
-                    Nếu bạn muốn tìm hiểu rõ hơn về chương trình Trường hè Khoa học, hãy nghiên cứu kỹ nội dung các Trường hè Khoa học trong quá khứ tại <a href = "/vsss2025/about-us/VSSS/"><u>đây</u></a>.
+                    Nếu bạn muốn tìm hiểu rõ hơn về chương trình Trường hè Khoa học, hãy nghiên cứu kỹ nội dung các Trường hè Khoa học trong quá khứ tại <a href = "/about-us/VSSS/"><u>đây</u></a>.
                 </p>
             </div>
         </details>                
@@ -333,7 +333,7 @@ permalink: /others/faqs/
             </summary>
             <div class="faq-answer">
                 <p>
-                    Lịch tổ chức Trường hè Khoa học được sắp xếp theo lịch trình <strong>05-08/8/2025</strong> (<a href = "/vsss2025/program/timeline/"><u>xem</u></a>). Trường hè sẽ diễn ra liên tục trong 04 ngày tại Trung tâm Quốc tế Khoa học và Giáo dục Liên ngành (ICISE), thành phố Quy Nhơn, Bình Định. ICISE là trung tâm khoa học quốc tế duy nhất tại Việt Nam được xây dựng bởi vợ chồng giáo sư Jean Trần Thanh Vân và giáo sư Phạm Kim Ngọc. Nơi đây chuyên tổ chức các hội thảo mang tầm quốc gia và quốc tế cùng với các khoá đào tạo chuyên đề, chuyên gia, tiêu biểu cho các nhà nghiên cứu và các ứng viên tiến sĩ, được ví như một thánh đường của khoa học và giáo dục, nơi chắp cánh cho những giấc mơ tri thức.
+                    Lịch tổ chức Trường hè Khoa học được sắp xếp theo lịch trình <strong>05-08/8/2025</strong> (<a href = "/program/timeline/"><u>xem</u></a>). Trường hè sẽ diễn ra liên tục trong 04 ngày tại Trung tâm Quốc tế Khoa học và Giáo dục Liên ngành (ICISE), thành phố Quy Nhơn, Bình Định. ICISE là trung tâm khoa học quốc tế duy nhất tại Việt Nam được xây dựng bởi vợ chồng giáo sư Jean Trần Thanh Vân và giáo sư Phạm Kim Ngọc. Nơi đây chuyên tổ chức các hội thảo mang tầm quốc gia và quốc tế cùng với các khoá đào tạo chuyên đề, chuyên gia, tiêu biểu cho các nhà nghiên cứu và các ứng viên tiến sĩ, được ví như một thánh đường của khoa học và giáo dục, nơi chắp cánh cho những giấc mơ tri thức.
                 </p>
                 <p>
                     Bài giảng buổi sáng bắt đầu từ 8h sáng các ngày (ngoại trừ ngày đầu tiên trường hè sẽ bắt đầu sớm hơn để đăng ký và khai mạc), và kết thúc vào 6h chiều mỗi ngày. Học viên sẽ có 1 tiếng nghỉ trưa (12h30 – 13h30), và có thể làm các bài tập nhóm trong thời gian nghỉ trưa. Học viên được khuyến khích thảo luận với giảng viên về các chủ đề bài giảng, cũng như các vấn đề liên quan, đặc biệt các vấn đề học thuật và kinh nghiệm của những người đi trước, kể cả ngoài giờ học. Học viên tham gia đầy đủ các bài học sẽ nhận được giấy chứng nhận hoàn thành trường hè được trao vào cuối buổi học cuối cùng.
