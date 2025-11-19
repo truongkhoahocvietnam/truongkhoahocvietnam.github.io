@@ -1,7 +1,7 @@
 ---
 title: "Program"
 layout: category
-permalink: /vsss2025/program/
+permalink: /program/
 author_profile: true
 ---
 

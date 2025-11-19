@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Others"
-permalink: /vsss2025/others/
+permalink: /others/
 ---
 
 <style>
