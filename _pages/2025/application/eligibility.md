@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Eligibility"
-permalink: /vsss2025/application/eligibility/
+permalink: /application/eligibility/
 ---
 
 <style>

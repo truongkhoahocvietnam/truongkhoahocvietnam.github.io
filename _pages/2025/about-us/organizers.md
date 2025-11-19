@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Organizers"
-permalink: /vsss2025/about-us/organizers/
+permalink: /about-us/organizers/
 ---
 
 <style>

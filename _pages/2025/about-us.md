@@ -83,8 +83,8 @@ permalink: /about-us/
          Please click on each sub-button to find out more about our motivation, history, and VSSS organizers.
     </p>
     <div>
-         <a href="/VSSS/" class="nav-button">VSSS</a>
-         <a href="/rencontres-du-vietnam/" class="nav-button">Rencontres du Vietnam</a>
-         <a href="/organizers/" class="nav-button">Organizers</a>
+         <a href="/about-us/VSSS/" class="nav-button">VSSS</a>
+         <a href="/about-us/rencontres-du-vietnam/" class="nav-button">Rencontres du Vietnam</a>
+         <a href="/about-us/organizers/" class="nav-button">Organizers</a>
     </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Prepare to Apply"
-permalink: /vsss2025/application/prepare-to-apply/
+permalink: /application/prepare-to-apply/
 ---
 
 <style>

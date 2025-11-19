@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Rencontres du Vietnam"
-permalink: /vsss2025/about-us/rencontres-du-vietnam/
+permalink: /about-us/rencontres-du-vietnam/
 ---
 
 <style>

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "FAQs"
-permalink: /vsss2025/others/faqs/
+permalink: /others/faqs/
 ---
 
 <style>

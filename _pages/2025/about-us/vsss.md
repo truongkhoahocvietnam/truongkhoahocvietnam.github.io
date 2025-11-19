@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "VSSS"
-permalink: /vsss2025/about-us/VSSS/
+permalink: /about-us/VSSS/
 ---
 
 <style>

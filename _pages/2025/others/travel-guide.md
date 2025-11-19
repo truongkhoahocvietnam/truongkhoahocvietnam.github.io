@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Travel Guide"
-permalink: /vsss2025/others/travel-guide/
+permalink: /others/travel-guide/
 ---
 
 <style>

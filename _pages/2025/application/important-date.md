@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Important Dates"
-permalink: /vsss2025/application/important-dates/
+permalink: /application/important-dates/
 ---
 
 <style>
