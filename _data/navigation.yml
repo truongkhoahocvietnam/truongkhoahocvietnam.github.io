@@ -1,6 +1,15 @@
 main:
       - title: "Home"
         url: /
+      - title: "About Us"
+        url: /about-us/
+        children:
+          - title: "VSSS"
+            url: /about-us/VSSS/
+          - title: "Rencontres du Vietnam"
+            url: /about-us/rencontres-du-vietnam/
+          - title: "Organizers"
+            url: /about-us/organizers/
       - title: "Program"
         url: /program/
         children:
@@ -19,15 +28,6 @@ main:
               url: /application/important-dates/
             - title: "Prepare for Apply"
               url: /application/prepare-for-apply/
-      - title: "About Us"
-        url: /about-us/
-        children:
-          - title: "VSSS"
-            url: /about-us/VSSS/
-          - title: "Rencontres du Vietnam"
-            url: /about-us/rencontres-du-vietnam/
-          - title: "Organizers"
-            url: /about-us/organizers/
       - title: "Others"
         url: /others/
         children:
@@ -39,5 +39,32 @@ main:
             url: /others/news/
           - title: "Travel Guide"
             url: /others/travel-guide/
+      - title: "Past Events"
+        url: /past-events/
+        children:
+          - title: "Vietnam Summer School of Science, 2013"
+            url: /vsss2013/
+          - title: "Vietnam Summer School of Science, 2014"
+            url: /vsss2014/
+          - title: "Vietnam Summer School of Science, 2015"
+            url: /vsss2015/
+          - title: "Vietnam Summer School of Science, 2016"
+            url: /vsss2016/
+          - title: "Vietnam Summer School of Science, 2017"
+            url: /vsss2017/
+          - title: "Vietnam Summer School of Science, 2018"
+            url: /vsss2018/
+          - title: "Vietnam Summer School of Science, 2019"
+            url: /vsss2019/
+          - title: "Vietnam Summer School of Science, 2020"
+            url: /vsss2020/
+          - title: "Vietnam Summer School of Science, 2021"
+            url: /vsss2021/
+          - title: "Vietnam Summer School of Science, 2022"
+            url: /vsss2022/
+          - title: "Vietnam Summer School of Science, 2023"
+            url: /vsss2023/
+          - title: "Vietnam Summer School of Science, 2024"
+            url: /vsss2024/
       - title: "Contact"
         url: /contact/
